@@ -31,14 +31,14 @@ body {
   background-color: rebeccapurple;
 }
 
-.child:first-child {
+.green{
   background-color: green;
 }
 
-.child:nth-child(2) {
+.yellow{
   background-color: yellow;
 }
 
-.child:last-child {
+.red {
   background-color: red;
 }
